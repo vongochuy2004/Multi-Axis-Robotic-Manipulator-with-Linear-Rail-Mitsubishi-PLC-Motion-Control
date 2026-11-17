@@ -1,0 +1,2 @@
+# Multi-Axis-Robotic-Manipulator-with-Linear-Rail-Mitsubishi-PLC-Motion-Control
+Development of a 3DOF robotic manipulator integrated with a linear sliding rail, controlled by Mitsubishi FX3U/FX3G PLCs and FX3U-1PG positioning module. The project focuses on multi-axis motion control, pulse-based positioning, forward and inverse kinematics, coordinated movement, and sequential point-to-point operation.
